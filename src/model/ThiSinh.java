@@ -16,6 +16,7 @@ public class ThiSinh implements Serializable{
 	public ThiSinh() {
 	}
 
+//	example add commit
 	public ThiSinh(int maThiSinh, String tenThiSinh, Tinh queQuan, Date ngaySinh, boolean gioiTinh, float diemMon1,
 			float diemMon2, float diemMon3) {
 		this.maThiSinh = maThiSinh;
