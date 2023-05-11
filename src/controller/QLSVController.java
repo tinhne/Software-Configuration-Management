@@ -8,7 +8,7 @@ import view.QLSVView;
 
 public class QLSVController implements Action{
 	public QLSVView view;
-	
+//	luyen tap commit
 	
 	public QLSVController(QLSVView view) {
 		this.view = view;
