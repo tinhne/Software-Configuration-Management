@@ -78,7 +78,7 @@ public class QLSVView extends JFrame {
 			}
 		});
 	}
-
+//	Thêm 
 	/**
 	 * Create the frame.
 	 */
